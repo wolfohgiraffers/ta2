@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: boot-container
-        image: ys0915/argo_boot:38
+        image: ys0915/argo_boot:40
         imagePullPolicy: Always
         ports:
         - containerPort: 7777
